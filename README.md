@@ -11,6 +11,6 @@ Workshop to use good practices in software development: testing, ci and measurem
 
 Authors:
 
-- Fernández Martínez Gilberto
+- Fernández Martínez Cristian
 - Grande Muñoz Rodrigo
 - Saiz Hernández Carlos
