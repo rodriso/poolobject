@@ -9,6 +9,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import ubu.gii.dass.c01.ReusablePool;
+
 /**
  * @author alumno
  *
@@ -34,6 +36,11 @@ public class ReusablePoolTest {
 	 */
 	@Test
 	public void testGetInstance() {
+		ReusablePool instance1 = ReusablePool.getInstance();
+        assertNotNull(instance1);
+        
+        ReusablePool instance2 = ReusablePool.getInstance();
+        assertSame(instance1, instance2);
 	}
 
 	/**
