@@ -60,3 +60,23 @@ CI) de vuestro fichero README.md  en el repositorio.
 que describir el caso de prueba añadido.
 6. Verificar el resultado de las pruebas en el workflow de integración continua y cómo la calidad del 
 producto va mejorando con las sucesivas integraciones.
+
+### Preguntas
+**¿Se ha realizado trabajo en equipo?**
+
+Se puede afirmar que se ha realizado un trabjo en equipo, pues todos los integrantes del grupo han realizado distintos comits que conllevaban modificaciones en el resultado de la práctica.
+	
+**¿Tiene calidad el conjunto de pruebas disponibles?**
+
+El conjunto de pruebas podría tener mayor calidad pues solo tiene una 56% de cobertura de código según codecov, aunque esto no es una medida de calidad de pruebas 100% fiable.
+
+**¿Cuál es el esfuerzo invertido en realizar la actividad?**
+
+El esfuerzo invertido en la realización de la práctica, pues se ve que el número de comits realizados para la realizacion de la misma no ha sido muy elevado, es más, se puede apreciar que algunos de ellos tienen que ver con el correcto funcionamiento de la configuración.
+
+**¿Cuál es el número de fallos encontrados en el código original?**
+
+El número de errores encontrados originalmente es 3, los cuales son los métodos de prueba no implementados que tenían que ser completados por el alumno.
+
+**¿El proceso de integracion continua realizado ha sido de calidad?**
+El proyecto tiene mas de 25 workflows completados sin fallos, lo que indica que cada vez que se ha realizado un cambio se ha comprobado que las tareas automatizadas funcionen tras la aplicación de estos cambios.
