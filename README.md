@@ -1,6 +1,7 @@
 poolobject
 ==========
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/26ffd2aa487341d1ad05d4b42b69ddbb)](https://app.codacy.com/gh/rodriso/poolobject?utm_source=github.com&utm_medium=referral&utm_content=rodriso/poolobject&utm_campaign=Badge_Grade)
 [![Java CI](https://github.com/CristianFernandezM/poolobject/actions/workflows/ci_jdk11_build.yml/badge.svg)](https://github.com/CristianFernandezM/poolobject/actions/workflows/ci_jdk11_build.yml) 
 [![Java CI](https://github.com/CristianFernandezM/poolobject/actions/workflows/ci_jdk1.8_build_test.yml/badge.svg)](https://github.com/CristianFernandezM/poolobject/actions/workflows/ci_jdk1.8_build_test.yml) 
 [![codecov](https://codecov.io/gh/CristianFernandezM/poolobject/graph/badge.svg?token=NvQ17D5kct)](https://codecov.io/gh/CristianFernandezM/poolobject)
